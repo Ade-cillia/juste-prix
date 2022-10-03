@@ -12,3 +12,9 @@ Install my-project with npm
   copy .env.example .env
 ```
 (Not forget to replace sensible key value)
+
+## RUN
+
+```bash
+  npm run start:dev
+```
